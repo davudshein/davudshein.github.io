@@ -1,3 +1,0 @@
-# Calculator
-
-Basic JavaScript calculator.

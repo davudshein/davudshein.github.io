@@ -1,3 +1,0 @@
-# Biochem Flashcards
-
-Flashcard app.
